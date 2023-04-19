@@ -1,0 +1,11 @@
+node_modules/
+TECE01/
+TESP02/
+TESP03/
+TESP04/
+*.zip
+.vscode
+package-lock.json
+old/
+json/
+.env
